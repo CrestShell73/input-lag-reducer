@@ -1,0 +1,5 @@
+repository:
+  name: input-lag-reducer
+  description: "See where the milliseconds go: mouse, OS, game queue, GPU. Then trim them. Measure first, tweak second, no placebo."
+  topics: input-lag, latency, gaming, mouse, performance, windows, free, utility
+  has_wiki: false
