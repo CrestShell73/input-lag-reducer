@@ -12,7 +12,7 @@
 <h2 align="center">Nerve</h2>
 <p align="center"><b>An input lag fixer that measures first. Nerve shows every millisecond between your click and the pixel, fixes the parts a PC can fix, and keeps an undo for each change.</b></p>
 
-<p align="center"><b>Free · Windows 10 and 11 · open source.</b> **v1.2.6 is out now** — grab it from [Releases](releases/latest).</p>
+<p align="center"><b>Free · Windows 10 and 11 · open source.</b> <b>v1.2.6 is out now</b> — grab it from <a href="releases/latest">Releases</a>.</p>
 
 
 ## See it work
@@ -112,7 +112,3 @@ Screens show the Fortnite mark (Epic Games) and NVIDIA's name to illustrate a re
 **Description:** Input lag fixer that measures first: click-to-pixel latency ledger per stage, fixes priced in milliseconds, undo for every change. No registry hacks.
 
 **Topics:** input-lag, input-latency, latency, nvidia-reflex, mouse-latency, gaming-performance, frame-time, windows
-
----
-
-Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
