@@ -112,3 +112,7 @@ Screens show the Fortnite mark (Epic Games) and NVIDIA's name to illustrate a re
 **Description:** Input lag fixer that measures first: click-to-pixel latency ledger per stage, fixes priced in milliseconds, undo for every change. No registry hacks.
 
 **Topics:** input-lag, input-latency, latency, nvidia-reflex, mouse-latency, gaming-performance, frame-time, windows
+
+---
+
+Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
